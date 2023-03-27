@@ -1,0 +1,1 @@
+Creé el repositorio en GH lo cloné a mi PC, creé una carpeta, un archivo, ingresé al mismo en VSC y lo modifiqué
